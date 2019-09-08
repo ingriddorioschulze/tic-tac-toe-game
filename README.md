@@ -1,6 +1,6 @@
 # about
 
-Tic-tac-toe game tutorial build in React.
+Tic-tac-toe game build in React coding along with the Tutorial.
 
 # technologies
 
