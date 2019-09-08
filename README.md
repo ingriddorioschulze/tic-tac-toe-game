@@ -2,8 +2,6 @@
 
 Tic-tac-toe game tutorial build in React.
 
-Futurama Quotes is personal project that turned in to be a really nice and fun coding challenge. As a fan of Futurama, I wanted to develop an application where users can search for characters and see all their quotes.
-
 # technologies
 
 - React
